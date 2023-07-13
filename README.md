@@ -17,8 +17,8 @@
 
 ---
 ## Screenshots
-![Screenshot_2](https://user-images.githubusercontent.com/71559273/184044712-3a021fa8-e438-4f18-8444-975322471c74.png)
-![Screenshot_3](https://user-images.githubusercontent.com/71559273/184044728-30ebb86e-c2e1-4df8-901f-6f1be3dc301a.png)
+![platform1](https://user-images.githubusercontent.com/71559273/184044712-3a021fa8-e438-4f18-8444-975322471c74.png)
+![platform2](https://user-images.githubusercontent.com/71559273/184044728-30ebb86e-c2e1-4df8-901f-6f1be3dc301a.png)
 
 ---
 ## Status
