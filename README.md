@@ -22,7 +22,8 @@
 
 ---
 ## Status
-Released; project is complete, but might receive some updates
+~~Released; project is complete, but might receive some updates~~  
+Project is complete
 
 ---
 ## Version
